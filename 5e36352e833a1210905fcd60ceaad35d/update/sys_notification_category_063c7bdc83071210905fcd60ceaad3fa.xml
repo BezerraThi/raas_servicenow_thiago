@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_category">
+    <sys_notification_category action="INSERT_OR_UPDATE">
+        <name>RaasS</name>
+        <short_description/>
+        <sys_class_name>sys_notification_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-08 16:48:47</sys_created_on>
+        <sys_id>063c7bdc83071210905fcd60ceaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RaasS</sys_name>
+        <sys_package display_value="RaaS - Thiago" source="x_1588982_raas">5e36352e833a1210905fcd60ceaad35d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Thiago">5e36352e833a1210905fcd60ceaad35d</sys_scope>
+        <sys_update_name>sys_notification_category_063c7bdc83071210905fcd60ceaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-08 16:48:47</sys_updated_on>
+    </sys_notification_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=063c7bdc83071210905fcd60ceaad3fa"/>
+</record_update>

@@ -2,7 +2,7 @@
     <element db_object_id="201ae53a83b21210905fcd60ceaad38f" label="Media" max_length="40" name="x_1588982_raas_media" type="collection">
         <element label="Writers" max_length="4000" name="writers" type="string"/>
         <element label="Release Date" max_length="40" name="release_date" type="glide_date"/>
-        <element label="Website" max_length="40" name="website" type="url"/>
+        <element label="Website" max_length="1000" name="website" type="url"/>
         <element label="Category" max_length="40" name="category" type="string"/>
         <element label="Country" max_length="250" name="country" type="string"/>
         <element label="Sinopsis" max_length="4000" name="sinopsis" type="string"/>

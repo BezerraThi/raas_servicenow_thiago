@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b08eeca8830b1210905fcd60ceaad398" sys_domain="global" table="x_1588982_raas_review" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-08 20:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>018eeca8830b1210905fcd60ceaad39c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1588982_raas_review" name="x_1588982_raas_review" sys_domain="global" view="Default view">b08eeca8830b1210905fcd60ceaad398</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1588982_raas_review" sys_domain="global" view="Default view">442256f683761210905fcd60ceaad3c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-08 20:27:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1588982_raas_review</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-08 20:27:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b08eeca8830b1210905fcd60ceaad398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1588982_raas_review</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RaaS - Thiago" source="x_1588982_raas">5e36352e833a1210905fcd60ceaad35d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RaaS - Thiago">5e36352e833a1210905fcd60ceaad35d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b08eeca8830b1210905fcd60ceaad398</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-08 20:27:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
