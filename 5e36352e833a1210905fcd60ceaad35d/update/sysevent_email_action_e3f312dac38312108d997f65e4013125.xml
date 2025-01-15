@@ -36,7 +36,9 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>The ${type} ${title} failed to integrating</p>]]></message_html>
+        <message_html><![CDATA[<p>The ${type} ${title} failed to integrate.</p>
+<p>The error was: ${integration_error_message}</p>
+<p>Please, check the media to see more about this error.<br><a href="/now/nav/ui/classic/params/target/x_1588982_raas_media.do%3Fsys_id=${sys_id}">Click Here</a></p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Integration Failure</name>
@@ -58,7 +60,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e3f312dac38312108d997f65e4013125</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Integration Failure</sys_name>
         <sys_overrides/>
         <sys_package display_value="RaaS - Thiago" source="x_1588982_raas">5e36352e833a1210905fcd60ceaad35d</sys_package>
@@ -66,7 +68,7 @@
         <sys_scope display_value="RaaS - Thiago">5e36352e833a1210905fcd60ceaad35d</sys_scope>
         <sys_update_name>sysevent_email_action_e3f312dac38312108d997f65e4013125</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-14 14:27:14</sys_updated_on>
+        <sys_updated_on>2025-01-15 02:41:20</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
