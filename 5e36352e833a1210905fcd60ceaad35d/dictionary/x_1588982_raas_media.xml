@@ -8,7 +8,7 @@
         <element label="Poster" max_length="1000" name="poster" type="url"/>
         <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Movie Already" value="7"/>
+                <element inactive_on_update="false" label="Movie Already in database" value="7"/>
                 <element inactive_on_update="false" label="Draft" sequence="100" value="1"/>
                 <element inactive_on_update="false" label="Completed" sequence="200" value="3"/>
             </choice>

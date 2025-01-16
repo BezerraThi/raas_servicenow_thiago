@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Allow read for records in x_1588982_raas_m2m_actor_media, for users with role x_1588982_raas.administrator.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1588982_raas_m2m_actor_media</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 03:02:39</sys_created_on>
+        <sys_id>59eb4abac38f92108d997f65e4013148</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1588982_raas_m2m_actor_media</sys_name>
+        <sys_package display_value="RaaS - Thiago" source="x_1588982_raas">5e36352e833a1210905fcd60ceaad35d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Thiago">5e36352e833a1210905fcd60ceaad35d</sys_scope>
+        <sys_update_name>sys_security_acl_59eb4abac38f92108d997f65e4013148</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 03:07:47</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RaaS - Thiago">5e36352e833a1210905fcd60ceaad35d</application>
+        <file_path/>
+        <instance_id>6f38880adb797d98caf99027c5961983</instance_id>
+        <instance_name>dev183157</instance_name>
+        <name>sys_security_acl_59eb4abac38f92108d997f65e4013148</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description>Allow read for records in x_1588982_raas_m2m_actor_media, for users with role x_1588982_raas.administrator.</description><local_or_existing>Local</local_or_existing><name>x_1588982_raas_m2m_actor_media</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-16 03:02:39</sys_created_on><sys_id>59eb4abac38f92108d997f65e4013148</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1588982_raas_m2m_actor_media</sys_name><sys_package display_value="RaaS - Thiago" source="x_1588982_raas">5e36352e833a1210905fcd60ceaad35d</sys_package><sys_policy/><sys_scope display_value="RaaS - Thiago">5e36352e833a1210905fcd60ceaad35d</sys_scope><sys_update_name>sys_security_acl_59eb4abac38f92108d997f65e4013148</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-16 03:07:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>85932715</payload_hash>
+        <record_name>x_1588982_raas_m2m_actor_media</record_name>
+        <reverted_from/>
+        <source>56364ad2c34312108d997f65e401312c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 03:07:47</sys_created_on>
+        <sys_id>e64d0e7ec38f92108d997f65e40131cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1946d14ceca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 03:07:47</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>ea4d0e7e988f9210667debf6adf81bcc</update_guid>
+        <update_guid_history>ea4d0e7e988f9210667debf6adf81bcc:85932715,df1c023ec98f92104a2e3a4363a503c6:1936821682</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 03:16:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>7ffa991432254dfe9a6c3ab13a718991</sys_id>
+        <sys_metadata>59eb4abac38f92108d997f65e4013148</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1588982_raas_m2m_actor_media</sys_name>
+        <sys_package display_value="RaaS - Thiago" source="x_1588982_raas">5e36352e833a1210905fcd60ceaad35d</sys_package>
+        <sys_parent display_value="x_1588982_raas_m2m_actor_media">81064692c34312108d997f65e4013166</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Thiago">5e36352e833a1210905fcd60ceaad35d</sys_scope>
+        <sys_scope_delete display_value="">437445e610e6416c807155e7b6f6fa71</sys_scope_delete>
+        <sys_update_name>sys_security_acl_59eb4abac38f92108d997f65e4013148</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_59eb4abac38f92108d997f65e4013148">e64d0e7ec38f92108d997f65e40131cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 03:16:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
